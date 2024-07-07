@@ -1,1 +1,1 @@
-# EbookOnline-Store
+# Ebook Online Store
